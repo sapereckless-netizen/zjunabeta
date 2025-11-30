@@ -1,0 +1,15 @@
+{
+  "name": "zjuna",
+  "version": "1.0.0",
+  "description": "Z-junien reaaliaikainen seurantasovellus Helsingin ja Mäntsälän välillä (Digitraffic API + Express).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
