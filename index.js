@@ -279,7 +279,7 @@ footer {
   <div class="logo-dot">Z</div>
   <div>
     <h1>Z-junaseuranta</h1>
-    <p>Reaaliaikaiset Z-junat Helsingin ja Mäntsälän välillä</p>
+    <p>Reaaliaikaiset Z-junien kulkutiedot Mäntsälän ja Helsingin välillä. Sivusto päivittyy automaattisesti 30s välein.</p>
   </div>
 </header>
 
